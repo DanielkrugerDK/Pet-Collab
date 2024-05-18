@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro - Guarda Compartilhada de Pets</title>
+    <link rel="stylesheet" href="registro.css">
+</head>
+<body>
+    <div class="register-container">
+        <div class="register-box">
+            <div class="register-header">
+                <img src="https://i.pinimg.com/originals/8b/32/19/8b3219915529c9929ca03a232ded0613.png" alt="Logo de Pet" class="logo">
+                <h1>Cadastro</h1>
+            </div>
+            <form action="pagina_principal.html" method="POST">
+                <label for="username"><i class="fas fa-user"></i> Nome de Usuário:</label>
+                <input type="text" id="username" name="username" required>
+                
+                <label for="email"><i class="fas fa-envelope"></i> Email:</label>
+                <input type="email" id="email" name="email" required>
+                
+                <label for="password"><i class="fas fa-lock"></i> Senha:</label>
+                <input type="password" id="password" name="password" required>
+                
+                <label for="confirm-password"><i class="fas fa-lock"></i> Confirme a Senha:</label>
+                <input type="password" id="confirm-password" name="confirm-password" required>
+                
+                <button type="submit"><i class="fas fa-user-plus"></i> Cadastrar</button>
+            </form>
+            <p>Já tem uma conta? <a href="login.html">Faça login</a></p>
+        </div>
+    </div>
+</body>
+</html>
