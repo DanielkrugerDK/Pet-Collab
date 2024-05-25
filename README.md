@@ -21,7 +21,7 @@ Este é um projeto de um site para gestão de guarda compartilhada de pets. O si
 ## Estrutura do Projeto
 
 ```plaintext
-.
+
 ├── index.html                 # Página de Login
 ├── registro.html              # Página de Criação de Usuário
 ├── home.html                  # Página Principal
@@ -30,7 +30,7 @@ Este é um projeto de um site para gestão de guarda compartilhada de pets. O si
 ├── perfil.html                # Página de Perfil
 ├── /css                       # Arquivo de estilos CSS
 └── README.md                  # Documentação do projeto
-
+```
 ## Como Utilizar
 
 1. Clone o repositório para o seu ambiente local:
