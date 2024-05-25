@@ -69,9 +69,9 @@ O site foi projetado para ser responsivo, com ajustes específicos para diferent
     }
 }
 ```
-### Membros do grupo:
-# Product Owner: DANIEL KRUGER FERREIRA CARDOSO
-# Scrum Master: EMANUELLE ENJOLIN ZUNTINI
+## Membros do grupo:
+### Product Owner:### DANIEL KRUGER FERREIRA CARDOSO
+### Scrum Master:### EMANUELLE ENJOLIN ZUNTINI
 - CARLOS EDUARDO SPAK JUNCHER
 - DANIEL KRUGER FERREIRA CARDOSO
 - EMANUELLE ENJOLIN ZUNTINI
