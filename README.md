@@ -28,19 +28,19 @@ Este é um projeto de um site para gestão de guarda compartilhada de pets. O si
 ├── meuspets.html              # Página de Meus Pets
 ├── guarda_compartilhada.html  # Página de Controle de Guarda Compartilhada
 ├── perfil.html                # Página de Perfil
-├── /css                       # Arquivo de estilos CSS
+├── /css                       # Arquivos de estilos CSS
 └── README.md                  # Documentação do projeto
 ```
 ## Como Utilizar
 
 1. Clone o repositório para o seu ambiente local:
     ```bash
-    git clone https://github.com/seu-usuario/guarda-compartilhada-pets.git
+    git clone https://github.com/DanielkrugerDK/Pet-Collab.git
     ```
 
 2. Navegue até o diretório do projeto:
     ```bash
-    cd guarda-compartilhada-pets
+    cd Pet-Collab
     ```
 
 3. Abra o arquivo `index.html` em um navegador web para acessar a página de login.
@@ -68,4 +68,15 @@ O site foi projetado para ser responsivo, com ajustes específicos para diferent
         font-size: 14px;
     }
 }
+```
+### Membros do grupo:
+#Product Owner: DANIEL KRUGER FERREIRA CARDOSO
 
+**CARLOS EDUARDO SPAK JUNCHER
+**DANIEL KRUGER FERREIRA CARDOSO
+**EMANUELLE ENJOLIN ZUNTINI
+**GABRIEL FERNANDO BRAND
+**JOÃO LUIZ RODIGHERO TELÓ
+**JOÃO VICTOR DOS SANTOS
+**LEONARDO PALIN DOS SANTOS 
+**E LEONARDI VINICIUS MOUZINHO OLIVEIRA DA SILVA
