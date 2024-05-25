@@ -74,6 +74,7 @@ O site foi projetado para ser responsivo, com ajustes específicos para diferent
 - DANIEL KRUGER FERREIRA CARDOSO
 ### Scrum Master:
 - EMANUELLE ENJOLIN ZUNTINI
+### Dev Team:
 - CARLOS EDUARDO SPAK JUNCHER
 - DANIEL KRUGER FERREIRA CARDOSO
 - EMANUELLE ENJOLIN ZUNTINI
